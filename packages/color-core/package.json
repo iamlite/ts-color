@@ -57,10 +57,10 @@
   "devDependencies": {
     "@jest/globals": "^29.7.0",
     "@testing-library/dom": "^10.4.0",
-    "@testing-library/jest-dom": "^6.6.2",
+    "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.0.1",
-    "@types/jest": "^29.5.13",
-    "@types/node": "^22.7.6",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.1",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "cpy-cli": "^5.0.0",
@@ -73,7 +73,7 @@
     "rimraf": "^6.0.1",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.2"
   },
   "jest": {
     "preset": "ts-jest",
@@ -104,7 +104,7 @@
     }
   },
   "dependencies": {
-    "axios": "^1.7.7"
+    "axios": "^1.7.8"
   },
   "funding": [
     {
