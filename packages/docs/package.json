@@ -33,14 +33,14 @@
     "node": ">=18.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.5.2",
+    "@docusaurus/module-type-aliases": "3.6.3",
     "@docusaurus/theme-mermaid": "^3.5.2",
     "@docusaurus/tsconfig": "^3.5.2",
-    "@types/react": "^18.3.11",
+    "@types/react": "^19.0.1",
     "@types/react-helmet": "^6.1.11",
     "@types/react-router-dom": "^5.3.3",
     "docusaurus-plugin-typedoc": "^1.0.5",
-    "typedoc": "^0.26.10",
+    "typedoc": "^0.27.4",
     "typedoc-plugin-markdown": "^4.2.9",
     "typescript": "^5.6.3"
   },
